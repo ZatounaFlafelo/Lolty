@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: beige;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+html{
+    background-color: rgb(255, 127, 197);
+}
+div{
+    width: 50%;
+    margin: 25%;
+    margin-top: 17px;
+}
+a{
+    color: white;
+    font-size: 25px;
+    margin-left: 35%;
+    font-family: cursive;
+
+}
+img{
+
+    margin-left: 20px;
+}
+#giffy{
+    margin-left: 42.5%;
+}
